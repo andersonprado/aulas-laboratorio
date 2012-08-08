@@ -4,11 +4,6 @@ table,tr,td {
 	margin-right: auto;
 }
 
-h1 {
-	margin-top: 40px;
-	text-align: center;
-	color: #8B0005;
-}
 
 body {
 	background-repeat: repeat;
@@ -35,6 +30,14 @@ body {
 #form {
 	height: 300px;
 	padding-top: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+#form2 {
+	height: 500px;
+	padding-top: 50px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 80%;
