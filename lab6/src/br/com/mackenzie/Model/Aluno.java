@@ -6,6 +6,7 @@ public class Aluno implements Serializable {
 
 	/**
 	 * 
+         *
 	 */
 	private static final long serialVersionUID = -1146412943087915328L;
 	private String nome;
